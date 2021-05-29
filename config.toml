@@ -1,6 +1,6 @@
-baseURL = "https://www.schmopera.com"
-languageCode = "en-us"
-title = "Schmopera"
+baseURL = "https://kopihitam.netlify.app"
+languageCode = "id-id"
+title = "Wildan Fauzy Stories"
 theme = "schmopera"
 
 [taxonomies]
